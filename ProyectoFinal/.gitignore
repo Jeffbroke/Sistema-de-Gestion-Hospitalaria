@@ -1,0 +1,22 @@
+# Compilados de Java
+*.class
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+build/
+.nb-gradle/
+
+# Logs
+*.log
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Datos locales
+pacientes.txt
+pacientes_atendidos.txt
+lista_espera.txt
+
